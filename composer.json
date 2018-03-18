@@ -1,0 +1,15 @@
+{
+    "name": "simon-ondrej/universal-parser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ondrej Simon",
+            "email": "hello@ondrejsimon.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SimonOndrej\\": "src"
+        }
+    }
+}
